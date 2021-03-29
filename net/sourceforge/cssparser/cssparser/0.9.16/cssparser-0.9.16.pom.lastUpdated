@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 02 15:18:06 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1612259286727
+@default-saucelabs-repository-https\://repository-saucelabs.forge.cloudbees.com/release/.lastUpdated=1612259286219
+https\://repository-saucelabs.forge.cloudbees.com/release/.error=Could not transfer artifact net.sourceforge.cssparser\:cssparser\:pom\:0.9.16 from/to saucelabs-repository (https\://repository-saucelabs.forge.cloudbees.com/release)\: repository-saucelabs.forge.cloudbees.com

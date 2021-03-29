@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 02 15:20:25 IST 2021
+@default-saucelabs-repository-https\://repository-saucelabs.forge.cloudbees.com/release/.lastUpdated=1612259425917
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1495952125871
+https\://repository-saucelabs.forge.cloudbees.com/release/.error=Could not transfer artifact org.seleniumhq.selenium\:selenium-java\:pom\:3.0.1 from/to saucelabs-repository (https\://repository-saucelabs.forge.cloudbees.com/release)\: repository-saucelabs.forge.cloudbees.com
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.seleniumhq.selenium\:selenium-java\:pom\:3.0.1 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

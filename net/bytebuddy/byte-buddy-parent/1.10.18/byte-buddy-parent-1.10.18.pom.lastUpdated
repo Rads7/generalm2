@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 02 15:19:43 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1612259383919
+@default-saucelabs-repository-https\://repository-saucelabs.forge.cloudbees.com/release/.lastUpdated=1612259383395
+https\://repository-saucelabs.forge.cloudbees.com/release/.error=Could not transfer artifact net.bytebuddy\:byte-buddy-parent\:pom\:1.10.18 from/to saucelabs-repository (https\://repository-saucelabs.forge.cloudbees.com/release)\: repository-saucelabs.forge.cloudbees.com

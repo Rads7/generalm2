@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 02 15:18:39 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1612259319197
+@default-saucelabs-repository-https\://repository-saucelabs.forge.cloudbees.com/release/.lastUpdated=1612259318683
+https\://repository-saucelabs.forge.cloudbees.com/release/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-databind\:pom\:2.5.1 from/to saucelabs-repository (https\://repository-saucelabs.forge.cloudbees.com/release)\: repository-saucelabs.forge.cloudbees.com

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 02 15:18:24 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1612259304007
+@default-saucelabs-repository-https\://repository-saucelabs.forge.cloudbees.com/release/.lastUpdated=1612259303538
+https\://repository-saucelabs.forge.cloudbees.com/release/.error=Could not transfer artifact org.apache.poi\:poi\:pom\:3.13 from/to saucelabs-repository (https\://repository-saucelabs.forge.cloudbees.com/release)\: repository-saucelabs.forge.cloudbees.com

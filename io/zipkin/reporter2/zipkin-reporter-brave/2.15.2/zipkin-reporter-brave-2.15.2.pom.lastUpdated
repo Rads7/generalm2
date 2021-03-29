@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 02 15:19:38 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1612259378787
+@default-saucelabs-repository-https\://repository-saucelabs.forge.cloudbees.com/release/.lastUpdated=1612259378347
+https\://repository-saucelabs.forge.cloudbees.com/release/.error=Could not transfer artifact io.zipkin.reporter2\:zipkin-reporter-brave\:pom\:2.15.2 from/to saucelabs-repository (https\://repository-saucelabs.forge.cloudbees.com/release)\: repository-saucelabs.forge.cloudbees.com

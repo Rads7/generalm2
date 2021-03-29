@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Feb 04 20:53:34 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1612452214135
+@default-saucelabs-repository-https\://repository-saucelabs.forge.cloudbees.com/release/.lastUpdated=1612452209794
+https\://repository-saucelabs.forge.cloudbees.com/release/.error=Could not transfer artifact org.slf4j\:slf4j-jdk14\:pom\:1.7.25 from/to saucelabs-repository (https\://repository-saucelabs.forge.cloudbees.com/release)\: repository-saucelabs.forge.cloudbees.com

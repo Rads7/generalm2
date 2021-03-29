@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 02 15:18:36 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1612259316097
+@default-saucelabs-repository-https\://repository-saucelabs.forge.cloudbees.com/release/.lastUpdated=1612259315551
+https\://repository-saucelabs.forge.cloudbees.com/release/.error=Could not transfer artifact com.applitools\:eyes-selenium-java\:pom\:2.57 from/to saucelabs-repository (https\://repository-saucelabs.forge.cloudbees.com/release)\: repository-saucelabs.forge.cloudbees.com
